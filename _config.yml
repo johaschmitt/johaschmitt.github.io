@@ -1,13 +1,13 @@
 title: Johannes Schmitt # your name (or website title) here
-logo: "/images/2090 - FINAL.jpg?raw=true" # your photo (or logo) here
+logo: "/images/heads.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Graduate of the Master's program <b>Mathematics in Data Science</b> @ TUM 
+  Graduate of the Master's program <b>Mathematics in Data Science</b> @ <em>TUM</em>
   <br><br>
   Working Student @ metoda GmbH (Munich) 
   <br><br>
-  "<i>Nothing is more practical than a good theory</i>” - Vladimir Vapnik 
+  <i>"Nothing is more practical than a good theory”</i> - Vladimir Vapnik 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/johannes-schmitt-ba081a205/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
