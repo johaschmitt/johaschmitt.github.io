@@ -1,6 +1,8 @@
-## This can be your internal website page / project page
+## Interventional Causal Structure Learning With Gaussian Process Regression 
+Master's Thesis @ Chair of Mathematical Statistics (Technical University of Munich)  
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Abstract**  
+This article presents an incomplete summary of the thesis. We review the SCM(Structural Causal Model)-view of causal modeling, which features functional dependencies between direct causes and direct effects. In our framework these functions are modeled in the Gaussian Process Regression setting in order to capture nonlinear functions and employ a flexible, non-parametric regression method that works well in the small data setting, which arises when admitting interventions that are assumed to be scarce. Further, we explore how these interventions can be utilized to extract the causal structure while simultaneously learning the functional dependencies.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
