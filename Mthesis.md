@@ -5,7 +5,7 @@
 <br/><br/>
 View the 
 
-* [thesis as pdf](/MThesis_JSchmitt_2020.pdf)
+* [thesis](/MThesis_JSchmitt_2020.pdf) as pdf
 * R code for a simulation of the [Bayesian score](/BAYESIAN_SCORE_3Var_first_sim_edited.R) 
 * R code for a simulation of the [Alternative score](/ALTERNATIVE_SCORE_3Var_first_sim_edited.R)
 

@@ -13,7 +13,7 @@ library(purrr)
 library(beepr)
 
 
-#setwd("/home/johnny/MT_ROOT/WD")
+
 
 
 
